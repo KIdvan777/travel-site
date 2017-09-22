@@ -1,0 +1,14 @@
+body{
+	color: #2f5572;
+	font-size: 12px;
+	padding: 10px;
+	-webkit-columns: 300px 2;
+	        columns: 300px 2;
+	opacity: 0.3;
+	border-radius: 3px;
+}
+
+.box a{
+		display: block;
+		padding: 10px;
+	}
