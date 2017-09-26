@@ -5,3 +5,5 @@ function Person(name,color) {
 		console.log(this.name + this.color);
 	}
 }
+
+module.exports = Person;
