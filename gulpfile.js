@@ -5,12 +5,7 @@ require('./gulp/tasks/scripts');
 
 
 
-// gulp.task('default',function(){
-// 	console.log("task default");
-// });
 
-// gulp.task('html',function(){
-// });
 
 
 
